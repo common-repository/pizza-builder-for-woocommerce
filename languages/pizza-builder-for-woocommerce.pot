@@ -1,0 +1,309 @@
+# Copyright (C) 2024 wsjrcatarri
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pizza Builder for WooCommerce 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pizza-builder-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-31T05:25:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: pizza-builder-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Pizza Builder for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create components for pizza product."
+msgstr ""
+
+#. Author of the plugin
+msgid "wsjrcatarri"
+msgstr ""
+
+#: ev-pizza.php:81
+msgid "Donate to author"
+msgstr ""
+
+#: ev-pizza.php:93
+msgid "View Pizza settings"
+msgstr ""
+
+#: ev-pizza.php:93
+msgid "Settings"
+msgstr ""
+
+#: ev-pizza.php:131
+msgid "Pizza Builder for WooCommerce requires at least 7.4 php version"
+msgstr ""
+
+#: ev-pizza.php:141
+msgid "WooCommerce must be active and have at least 5.0.0 version"
+msgstr ""
+
+#: includes/pizza-cart.php:191
+#: includes/pizza-checkout.php:101
+#: includes/pizza-checkout.php:314
+msgid "Extra Components:"
+msgstr ""
+
+#: includes/pizza-cart.php:200
+#: includes/pizza-checkout.php:110
+#: includes/pizza-checkout.php:323
+msgid "Basic Components:"
+msgstr ""
+
+#: includes/pizza-cart.php:209
+#: includes/pizza-checkout.php:119
+#: includes/pizza-checkout.php:332
+msgid "Layers:"
+msgstr ""
+
+#: includes/pizza-cart.php:219
+#: includes/pizza-checkout.php:129
+#: includes/pizza-checkout.php:342
+msgid "Side:"
+msgstr ""
+
+#: includes/pizza-checkout.php:67
+msgid "Pizza components"
+msgstr ""
+
+#: includes/pizza-checkout.php:72
+#: assets/dist/adminProductPizza.js:47914
+#: assets/dist/adminProductPizza.js:47922
+#: src/adminProductPizza.js:752
+#: src/adminProductPizza.js:759
+#: assets/dist/adminProductPizza.js:39953
+#: assets/dist/adminProductPizza.js:39960
+msgid "Components"
+msgstr ""
+
+#: includes/pizza.php:37
+msgid "PBW-Builder"
+msgstr ""
+
+#: includes/pizza.php:100
+#: includes/pizza.php:108
+msgid "Pizza"
+msgstr ""
+
+#: includes/pizza.php:356
+msgid "Choose %s flour pizza"
+msgstr ""
+
+#: includes/pizza.php:358
+#: templates/pizza/sides.php:49
+msgid "Choose cheese"
+msgstr ""
+
+#: includes/pizza.php:457
+msgid "Pizza data"
+msgstr ""
+
+#: templates/builder/steps.php:111
+msgid "Your product"
+msgstr ""
+
+#: templates/builder/steps.php:112
+#: templates/pizza/layers.php:14
+#: templates/pizza/layers.php:72
+#: templates/pizza/sides.php:14
+#: templates/pizza/sides.php:57
+msgid "Total:"
+msgstr ""
+
+#: templates/builder/steps.php:117
+#: templates/builder/steps.php:125
+msgid "Buy"
+msgstr ""
+
+#: templates/cart/ev-pizza-meta.php:14
+msgid "Pizza composition"
+msgstr ""
+
+#: templates/pizza/components.php:25
+msgid "Add ingredient"
+msgstr ""
+
+#: templates/pizza/components.php:26
+msgid "Remove ingredient"
+msgstr ""
+
+#: templates/pizza/components.php:120
+msgid "Add layer"
+msgstr ""
+
+#: templates/pizza/components.php:140
+msgid "Choose side"
+msgstr ""
+
+#: templates/pizza/layers.php:17
+#: templates/pizza/layers.php:75
+#: templates/pizza/sides.php:17
+#: templates/pizza/sides.php:38
+#: templates/pizza/sides.php:60
+msgid "Choose"
+msgstr ""
+
+#: templates/pizza/layers.php:39
+#: assets/dist/adminProductPizza.js:33860
+#: src/components/PizzaRules.js:398
+#: assets/dist/adminProductPizza.js:27365
+msgid "Add"
+msgstr ""
+
+#: templates/pizza/layers.php:39
+msgid " layer"
+msgstr ""
+
+#: templates/pizza/layers.php:64
+msgid "Choose %d flour pizza"
+msgstr ""
+
+#: templates/pizza/quick-view.php:69
+msgid "Placeholder"
+msgstr ""
+
+#: templates/pizza/sides.php:38
+msgid " side"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37125
+#: src/components/PizzaShortcode.js:327
+#: assets/dist/adminPizza.js:29814
+msgid "Shortcode was saved!"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37131
+#: assets/dist/adminPizza.js:37142
+#: assets/dist/adminPizza.js:45572
+#: assets/dist/adminPizza.js:45583
+#: src/adminPizza.js:479
+#: src/adminPizza.js:490
+#: src/components/PizzaShortcode.js:333
+#: src/components/PizzaShortcode.js:344
+#: assets/dist/adminPizza.js:29820
+#: assets/dist/adminPizza.js:29831
+#: assets/dist/adminPizza.js:37495
+#: assets/dist/adminPizza.js:37506
+msgid "Something went wrong"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37160
+#: src/components/PizzaShortcode.js:362
+#: assets/dist/adminPizza.js:29849
+msgid "Save"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37233
+#: assets/js/adminPizza.js:118
+#: src/components/PizzaShortcode.js:414
+#: assets/dist/adminPizza.js:29901
+msgid "Steps:"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37257
+#: assets/dist/adminPizza.js:37263
+#: assets/js/adminPizza.js:118
+#: src/components/PizzaShortcode.js:434
+#: src/components/PizzaShortcode.js:440
+#: assets/dist/adminPizza.js:29921
+#: assets/dist/adminPizza.js:29927
+msgid "Add components"
+msgstr ""
+
+#: assets/dist/adminPizza.js:37302
+#: assets/js/adminPizza.js:118
+#: src/components/PizzaShortcode.js:477
+#: assets/dist/adminPizza.js:29964
+msgid "Components:"
+msgstr ""
+
+#: assets/dist/adminPizza.js:45766
+#: src/adminPizza.js:682
+#: assets/dist/adminPizza.js:37698
+msgid "(for tabs)"
+msgstr ""
+
+#: assets/dist/adminPizza.js:45883
+#: src/adminPizza.js:820
+#: assets/dist/adminPizza.js:37836
+msgid "Allows to choose attributes and ingredient on archive pages"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33869
+#: src/components/PizzaRules.js:406
+#: assets/dist/adminProductPizza.js:27373
+msgid "Select group"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33870
+#: assets/dist/adminProductPizza.js:48033
+#: assets/dist/adminProductPizza.js:48041
+#: src/adminProductPizza.js:855
+#: src/adminProductPizza.js:862
+#: src/components/PizzaRules.js:407
+#: assets/dist/adminProductPizza.js:27374
+#: assets/dist/adminProductPizza.js:40056
+#: assets/dist/adminProductPizza.js:40063
+msgid "Extra components"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33875
+#: src/components/PizzaRules.js:414
+#: assets/dist/adminProductPizza.js:27381
+msgid "Other"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33879
+#: src/components/PizzaRules.js:415
+#: assets/dist/adminProductPizza.js:27382
+msgid "Selected extra"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33882
+#: src/components/PizzaRules.js:416
+#: assets/dist/adminProductPizza.js:27383
+msgid "Selected base"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:33894
+#: src/components/PizzaRules.js:435
+#: assets/dist/adminProductPizza.js:27402
+msgid "Select comparator"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:47985
+#: assets/dist/adminProductPizza.js:47993
+#: src/adminProductPizza.js:812
+#: src/adminProductPizza.js:819
+#: assets/dist/adminProductPizza.js:40013
+#: assets/dist/adminProductPizza.js:40020
+msgid "Base components"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:48149
+#: src/adminProductPizza.js:979
+#: assets/dist/adminProductPizza.js:40180
+msgid "(Sides)"
+msgstr ""
+
+#: assets/dist/adminProductPizza.js:48204
+#: src/adminProductPizza.js:1049
+#: assets/dist/adminProductPizza.js:40250
+msgid "(Additional products)"
+msgstr ""
+
+#: assets/js/adminProductPizza.js:113
+msgid "Add extra components"
+msgstr ""
+
+#: assets/js/adminProductPizza.js:113
+msgid "Consists of components"
+msgstr ""

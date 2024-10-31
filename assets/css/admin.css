@@ -1,0 +1,52 @@
+.pizza-composition-toggle {
+    cursor: pointer;
+  }
+
+  .ev-pizza-fancy-ingredients {
+    color: #333;
+   
+    }
+    .ev-pizza-fancy-ingredients  ul {
+        list-style: none;
+    }
+    .ev-pizza-fancy-ingredients li {
+        
+       
+    }
+    .ev-pizza-fancy-ingredients  p {
+        position: relative;
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(120, 124, 130);
+        color: #fff;
+        padding: 5px 20px;
+        font-size: 12px;
+        cursor: pointer;
+        margin-right: 8px;
+        margin-bottom: 8px;
+        user-select: none;
+        vertical-align: middle;
+        height: 36px;
+        border-radius: 40px;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+      }
+      .ev-pizza-fancy-ingredients  strong {
+        display: block;
+        color: #333;
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-bottom: 10px;
+      }
+      .ev-pizza-fancy-ingredients .pizza-quantity-badge {
+    position: absolute;
+    top: 0;
+    right:-5px;
+    border-radius: 50%;
+    background-color: hotpink;
+    color: #fff;
+    padding: 5px;
+  }
+  
